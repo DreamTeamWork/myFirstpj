@@ -4,6 +4,8 @@
 <dict>
 	<key>isOn</key>
 	<string>0</string>
+	<key>isGo</key>
+	<string>0</string>
 	<array>
 	    <string>ok</string>
 	</array>
