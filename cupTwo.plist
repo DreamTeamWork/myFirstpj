@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>taskTime</key>
+	<string>1519363359</string>
+	<key>isStartAdd</key>
+	<string>0</string>	
+	<key>addPublicId</key>
+	<string>wxid_pzhf43hmwizd11------gh_7f8beca5a5c9------gh_133a2c03c0f6------gh_faa35168f414------wxid_5768537685012</string>
+	<key>isStartShare</key>
+	<string>0</string>
+	<key>shareTitle</key>
+	<string>百度标题</string>
+	<key>shareUrl</key>
+	<string>http://www.baidu.com</string>
+	<key>shareContent</key>
+	<string>内容</string>
+	<key>isStartChange</key>
+	<string>0</string>
+	<key>changeUrl</key>
+	<string>http://www.qq.com</string>
+	<key>isStartWeb</key>
+	<string>0</string>
+	<key>webUrlArr</key>
+	<array>
+	    <string>http://mp.weixin.qq.com/s/qEadA3XiAWLYteSQUIn0vg</string>
+		<string>http://mp.weixin.qq.com/s/YpxycfiLM1iNORfb4Z4Y0Q</string>
+		<string>http://mp.weixin.qq.com/s/gidkUnwm48gz7rAsFA0mxg</string>
+		<string>http://mp.weixin.qq.com/s/U7zHzkbpmXAPbk_KpEaeqg</string>
+		<string>http://mp.weixin.qq.com/s/sO-Bg2BDddAFbIDyJszDew</string>
+	</array>
+</dict>
+</plist>
